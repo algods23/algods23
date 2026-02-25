@@ -1,22 +1,49 @@
 <h1 align="center">Hi 👋 I'm Ale Tabaranza</h1>
-<h3 align="center">Full-Stack Developer | AI & Smart Systems Builder | Future Tech Entrepreneur 🚀</h3>
+<h3 align="center">Full-Stack Developer | Data Analytics | AI-Driven Smart Agriculture 🚀</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Building smart systems & web applications  
-- 🌱 Currently working on AI-powered agriculture platforms  
-- 🛠️ Strong in PHP, Laravel, MySQL, React, and System Design  
-- 🎯 Goal: Build scalable tech solutions that solve real-world problems  
-- 📍 Philippines  
+- 💻 Full-stack developer focused on intelligent web systems  
+- 📊 Passionate about Data Analytics & Predictive Modeling  
+- 🤖 Building machine learning-based decision support systems  
+- 🌱 Developer of **Seed2Tree Web** for Efres Seedlings  
+- 🎯 Vision: Build scalable tech solutions that empower local businesses & farmers  
+
+---
+
+## 🌱 Featured Project: Seed2Tree Web (Efres Seedlings)
+
+An AI-powered web application designed for **Efres Seedlings** that:
+
+- 📈 Predicts seedling maturity using Regression Algorithms  
+- 📊 Analyzes plant growth data for smarter farming decisions  
+- 🛒 Integrates e-commerce to connect farmers directly with buyers  
+- 📍 Supports local agricultural development in Davao City  
+
+This system combines:
+- Machine Learning (Random Forest Regression)
+- Data Analytics
+- Web Development
+- Business Optimization
+
+---
+
+## 📊 Data Analytics & AI Skills
+
+- 📈 Data Visualization & Statistical Analysis  
+- 🤖 Regression Modeling (Random Forest)  
+- 🧮 Data Cleaning & Preprocessing  
+- 📊 MySQL Database Analysis  
+- 📑 Research-based System Development (IEEE format)  
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,bootstrap,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,python,bootstrap,tailwind,git,github" />
 </p>
 
 ---
@@ -31,14 +58,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=algods23&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🌱 Seed2Tree Web – AI-based seedling maturity prediction system  
-- 🚑 Integrated Emergency Response System with ID Verification  
-- 📊 Data-driven web applications for smart decision-making  
 
 ---
 
@@ -58,4 +77,4 @@
 
 ---
 
-⭐ “Code with purpose. Build with vision.”
+⭐ “Turning data into decisions. Turning ideas into scalable systems.”
