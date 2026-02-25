@@ -1,114 +1,71 @@
-# Ale Tabaranza
+<!-- PROFILE HEADER -->
+<h1 align="center">Ale Tabaranza</h1>
+<h3 align="center">Full-Stack Developer · Data Analytics · AI-Driven Systems</h3>
 
-### Full-Stack Developer · Data Analytics · AI-Driven Systems
+<p align="center">
+  Building intelligent platforms powered by data, security, and scalable architecture.
+</p>
 
-Building intelligent, data-driven platforms with secure, scalable architecture.
+<p align="center">
+  <a href="https://github.com/algods23?tab=repositories">
+    <img src="https://img.shields.io/badge/Full--Stack-Developer-1F2933?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer" />
+  </a>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Expert-2563EB?style=for-the-badge" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/AI--Driven%20Systems-Builder-16A34A?style=for-the-badge" alt="AI-Driven Systems" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build web applications and predictive systems that solve real-world problems, with a focus on data, security, and impact on local industries.
+I specialize in developing data-driven web applications and predictive systems that solve real-world problems.  
+My focus combines software engineering, machine learning, and business-oriented system design.
 
-- 📊 **Data Analytics & Predictive Modeling** – from exploratory analysis to production-ready models  
-- 🤖 **AI-Based Web Applications** – ML-backed features integrated into modern web stacks  
-- 🔐 **Network Security & Database Systems** – secure, reliable, and well-structured data layers  
-- 🌱 **Smart Agriculture Technology** – tech solutions that support farmers and agribusinesses  
-
-I enjoy taking ideas from prototype to production, combining software engineering best practices with business-oriented thinking.
+- 📊 **Data Analytics & Predictive Modeling**  
+- 🤖 **AI-Based Web Applications**  
+- 🔐 **Network Security & Database Systems**  
+- 🌱 **Smart Agriculture Technology (Efres Seedlings Project)**  
 
 ---
 
-## 🌱 Featured Project – Efres Seedlings (Seed2Tree Web)
+## 🌱 Featured Project
 
-A regression-based web system that supports smart agriculture in Davao City:
+### Seed2Tree Web – Efres Seedlings
 
-- 🌱 Predicts seedling maturity using **Random Forest regression**  
-- 📈 Analyzes plant growth and environmental data  
-- 🛒 Integrates **e‑commerce** for farmer-to-buyer connections  
-- 🧩 Designed to be extensible for future models and IoT integrations  
+A regression-based web system that:
 
-> If you’d like, I can help you extract this into its own repo with a full case-study style README.
+- ✅ Predicts seedling maturity using **Random Forest**  
+- 📈 Analyzes **plant growth data**  
+- 🛒 Integrates **e-commerce** for farmer-to-buyer connection  
+- 🌾 Supports **agricultural innovation in Davao City**  
 
 ---
 
 ## 🛠 Technical Expertise
 
-**Languages & Core Tech**
-
-- JavaScript / TypeScript  
-- Python  
-- SQL (e.g., MySQL/PostgreSQL)  
-- HTML5, CSS3
-
-**Frameworks & Libraries**
-
-- React / Next.js (or your actual frontend framework)  
-- Node.js / Express (or your actual backend stack)  
-- Scikit-learn / Pandas / NumPy  
-- RESTful APIs
-
-**Data & Analytics**
-
-- Data cleaning and feature engineering  
-- Regression and classification models  
-- Model evaluation and monitoring  
-- Dashboarding / basic BI (specify tools: e.g., Power BI, Tableau, etc.)
-
-**Dev Practices & Tools**
-
-- Git & GitHub workflows  
-- Basic CI/CD (GitHub Actions if applicable)  
-- Docker (if applicable)  
-- Unit testing and code review culture
-
-> Replace any placeholders above with your real tools so this stays honest and specific.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,python,bootstrap,tailwind,git,github" />
+</p>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Certifications
 
-- 🎓 [Your Degree], [University], [Year]  
-- 📜 Relevant certifications (e.g., “Google Data Analytics”, “AWS Cloud Practitioner”, etc.)
-
-(If you don’t have formal certs yet, remove this section or change it to **Education**.)
-
----
-
-## 📂 Selected Projects
-
-Briefly list 2–4 projects you want recruiters to see first:
-
-- **[Project Name – Role/Type]**  
-  Short 1–2 line description of what it does and why it matters.  
-  _Tech:_ React, Node.js, PostgreSQL, etc.  
-  _Highlights:_ e.g., authentication, dashboards, ML model integration.
-
-- **[Project Name – Data/ML]**  
-  What problem it solves and what data it uses.  
-  _Tech:_ Python, Pandas, Scikit-learn, etc.  
-  _Highlights:_ feature engineering, model metrics, deployment details.
-
-(Add markdown links to the actual repos once you decide which ones to showcase.)
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Specialist-Network%20Security-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT%20Specialist-Databases-15803D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DICT-Code%20Your%20Future-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UM-Research%20Presenter-7C3AED?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 Professional Direction
 
-I’m focused on building **scalable, intelligent systems** that empower local industries—especially agriculture and SMEs—through data-driven decision-making and automation.
-
-I’m currently interested in:
-
-- Building full-stack apps with embedded analytics/ML  
-- Improving model deployment and MLOps practices  
-- Collaborating on open-source tools for data and AI
+Focused on building **scalable intelligent systems** that empower local industries through **data-driven innovation**.
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: `Ale Tabaranza`  
-- 📧 Email: `aletabaranza23@gmail.com`  
-- 🌐 Portfolio / Website (if any): `https://github.com/algods23/algods23`
-
-Open to collaboration, freelance work, and roles in full-stack development and data-driven product teams.
+<p align="center">
+  <b>Connect professionally via LinkedIn.</b>
+</p>
