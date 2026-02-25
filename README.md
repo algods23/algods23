@@ -2,55 +2,58 @@
 <h3 align="center">Full-Stack Developer | Data Analytics | AI-Driven Systems</h3>
 
 <p align="center">
-Building intelligent web platforms that transform data into real-world impact.
+Building intelligent platforms powered by data, security, and scalable architecture.
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a full-stack developer specializing in data-driven web systems and predictive analytics.  
-My work focuses on combining software engineering, machine learning, and business strategy to build scalable digital solutions.
+I specialize in developing data-driven web applications and predictive systems that solve real-world problems.  
+My focus combines software engineering, machine learning, and business-oriented system design.
 
-- 💻 Full-Stack Development (PHP, Laravel, React, MySQL)
-- 📊 Data Analytics & Statistical Modeling
-- 🤖 Machine Learning (Random Forest Regression)
-- 📑 Research-oriented system development (IEEE format)
-- 🌱 Smart Agriculture Technology
+- 📊 Data Analytics & Predictive Modeling  
+- 🤖 AI-Based Web Applications  
+- 🔐 Network Security & Database Systems  
+- 🌱 Smart Agriculture Technology (Efres Seedlings Project)
 
 ---
 
-## Featured Project
+## 🌱 Featured Project
 
 ### Seed2Tree Web – Efres Seedlings
 
-A regression algorithm-based web application designed to:
+A regression-based web system that:
 
-- Predict seedling maturity using machine learning  
-- Analyze plant growth data for better decision-making  
-- Integrate e-commerce to connect farmers directly with buyers  
-- Support agricultural innovation in Davao City  
-
-This system bridges data science and agriculture to increase operational efficiency and local farmer income.
+• Predicts seedling maturity using Random Forest  
+• Analyzes plant growth data  
+• Integrates e-commerce for farmer-to-buyer connection  
+• Supports agricultural innovation in Davao City  
 
 ---
 
-## Technical Expertise
+## 🛠 Technical Expertise
 
-**Languages & Frameworks**  
-HTML • CSS • JavaScript • TypeScript • PHP • Laravel • React • Node.js  
-
-**Database & Analytics**  
-MySQL • SQLite • Data Cleaning • Statistical Analysis • Predictive Modeling  
-
-**Tools & Development**  
-Git • GitHub • REST APIs • System Architecture • Research Documentation  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,python,bootstrap,tailwind,git,github" />
+</p>
 
 ---
 
-## Professional Vision
+## 🎓 Certifications
 
-To build scalable, intelligent systems that empower businesses and communities through data-driven innovation.
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Specialist-Network%20Security-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT%20Specialist-Databases-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DICT-Code%20Your%20Future-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UM-Research%20Presenter-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 Professional Direction
+
+Focused on building scalable intelligent systems that empower local industries through data-driven innovation.
 
 ---
 
