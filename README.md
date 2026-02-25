@@ -1,80 +1,59 @@
-<h1 align="center">Hi 👋 I'm Ale Tabaranza</h1>
-<h3 align="center">Full-Stack Developer | Data Analytics | AI-Driven Smart Agriculture 🚀</h3>
-
----
-
-## 🧠 About Me
-
-- 💻 Full-stack developer focused on intelligent web systems  
-- 📊 Passionate about Data Analytics & Predictive Modeling  
-- 🤖 Building machine learning-based decision support systems  
-- 🌱 Developer of **Seed2Tree Web** for Efres Seedlings  
-- 🎯 Vision: Build scalable tech solutions that empower local businesses & farmers  
-
----
-
-## 🌱 Featured Project: Seed2Tree Web (Efres Seedlings)
-
-An AI-powered web application designed for **Efres Seedlings** that:
-
-- 📈 Predicts seedling maturity using Regression Algorithms  
-- 📊 Analyzes plant growth data for smarter farming decisions  
-- 🛒 Integrates e-commerce to connect farmers directly with buyers  
-- 📍 Supports local agricultural development in Davao City  
-
-This system combines:
-- Machine Learning (Random Forest Regression)
-- Data Analytics
-- Web Development
-- Business Optimization
-
----
-
-## 📊 Data Analytics & AI Skills
-
-- 📈 Data Visualization & Statistical Analysis  
-- 🤖 Regression Modeling (Random Forest)  
-- 🧮 Data Cleaning & Preprocessing  
-- 📊 MySQL Database Analysis  
-- 📑 Research-based System Development (IEEE format)  
-
----
-
-## ⚡ Tech Stack
+<h1 align="center">Ale Tabaranza</h1>
+<h3 align="center">Full-Stack Developer | Data Analytics | AI-Driven Systems</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,python,bootstrap,tailwind,git,github" />
+Building intelligent web platforms that transform data into real-world impact.
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## About Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=algods23&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algods23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I am a full-stack developer specializing in data-driven web systems and predictive analytics.  
+My work focuses on combining software engineering, machine learning, and business strategy to build scalable digital solutions.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=algods23&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://facebook.com/YOUR-FB">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-  <a href="https://instagram.com/YOUR-INSTA">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+- 💻 Full-Stack Development (PHP, Laravel, React, MySQL)
+- 📊 Data Analytics & Statistical Modeling
+- 🤖 Machine Learning (Random Forest Regression)
+- 📑 Research-oriented system development (IEEE format)
+- 🌱 Smart Agriculture Technology
 
 ---
 
-⭐ “Turning data into decisions. Turning ideas into scalable systems.”
+## Featured Project
+
+### Seed2Tree Web – Efres Seedlings
+
+A regression algorithm-based web application designed to:
+
+- Predict seedling maturity using machine learning  
+- Analyze plant growth data for better decision-making  
+- Integrate e-commerce to connect farmers directly with buyers  
+- Support agricultural innovation in Davao City  
+
+This system bridges data science and agriculture to increase operational efficiency and local farmer income.
+
+---
+
+## Technical Expertise
+
+**Languages & Frameworks**  
+HTML • CSS • JavaScript • TypeScript • PHP • Laravel • React • Node.js  
+
+**Database & Analytics**  
+MySQL • SQLite • Data Cleaning • Statistical Analysis • Predictive Modeling  
+
+**Tools & Development**  
+Git • GitHub • REST APIs • System Architecture • Research Documentation  
+
+---
+
+## Professional Vision
+
+To build scalable, intelligent systems that empower businesses and communities through data-driven innovation.
+
+---
+
+<p align="center">
+Connect professionally via LinkedIn.
+</p>
