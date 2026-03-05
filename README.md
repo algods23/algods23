@@ -14,34 +14,58 @@
   <img src="https://img.shields.io/badge/AI--Driven%20Systems-Builder-16A34A?style=for-the-badge" alt="AI-Driven Systems" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I specialize in developing data-driven web applications and predictive systems that solve real-world problems.  
-My focus combines software engineering, machine learning, and business-oriented system design.
-
-- 📊 **Data Analytics & Predictive Modeling**  
-- 🤖 **AI-Based Web Applications**  
-- 🔐 **Network Security & Database Systems**  
-- 🌱 **Smart Agriculture Technology (Efres Seedlings Project)**  
+<p align="center">
+  <a href="#featured-project"><b>Featured project</b></a>
+  ·
+  <a href="#technical-expertise"><b>Tech stack</b></a>
+  ·
+  <a href="#certifications"><b>Certifications</b></a>
+  ·
+  <a href="#connect"><b>Connect</b></a>
+</p>
 
 ---
 
-## 🌱 Featured Project
+## 
+0
+0About Me
 
-### Seed2Tree Web – Efres Seedlings
+I build data-driven web applications and AI-assisted systems that solve real-world problems.
+My focus blends software engineering, machine learning, and business-oriented system design.
 
-A regression-based web system that:
-
-- ✅ Predicts seedling maturity using **Random Forest**  
-- 📈 Analyzes **plant growth data**  
-- 🛒 Integrates **e-commerce** for farmer-to-buyer connection  
-- 🌾 Supports **agricultural innovation in Davao City**  
+- **Data Analytics & Predictive Modeling**
+- **AI-Based Web Applications**
+- **Network Security & Database Systems**
+- **Smart Agriculture Technology (Efres Seedlings Project)**
 
 ---
 
-## 🛠 Technical Expertise
+## 
+0
+0Featured Project
+
+<a id="featured-project"></a>
+
+### Seed2Tree Web  Efres Seedlings
+
+A regression-based web system for seedling monitoring and commerce that:
+
+- **Predicts seedling maturity** using a **Random Forest** model
+- **Analyzes plant growth data** to support better farming decisions
+- **Integrates e-commerce** to connect farmers and buyers
+- **Supports agricultural innovation** in Davao City
+
+**Project links**
+- Demo: *(add link)*
+- Repo: *(add link)*
+
+---
+
+## 
+0
+0Technical Expertise
+
+<a id="technical-expertise"></a>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,python,bootstrap,tailwind,git,github" />
@@ -49,7 +73,11 @@ A regression-based web system that:
 
 ---
 
-## 🎓 Certifications
+## 
+0
+0Certifications
+
+<a id="certifications"></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Specialist-Network%20Security-0F766E?style=for-the-badge" />
@@ -60,12 +88,22 @@ A regression-based web system that:
 
 ---
 
-## 📊 Professional Direction
+## 
+0
+0Professional Direction
 
 Focused on building **scalable intelligent systems** that empower local industries through **data-driven innovation**.
 
 ---
 
+## 
+0
+0Connect
+
+<a id="connect"></a>
+
 <p align="center">
-  <b>Connect professionally via LinkedIn.</b>
+  <a href="https://www.linkedin.com/"><b>LinkedIn</b></a>
+  ·
+  <a href="mailto:your.email@example.com"><b>Email</b></a>
 </p>
