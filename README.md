@@ -65,7 +65,13 @@ A regression-based web system for seedling monitoring and commerce that:
   <img src="./assets/jfdavao/reports.png" width="390" alt="JFDAVAO reports" />
 </p>
 ---
+assets/jfdavao/hero.png
+assets/jfdavao/screen-1.png
+assets/jfdavao/screen-2.png
 
+assets/seed2tree/hero.png
+assets/seed2tree/screen-1.png
+assets/seed2tree/screen-2.png
 ## Technical Expertise
 
 <a id="technical-expertise"></a>
