@@ -52,8 +52,8 @@ A regression-based web system for seedling monitoring and commerce that:
 - **Supports agricultural innovation** in Davao City
 
 **Project links**
-- Demo: **TODO** (add link)
-- Repo: **TODO** (add link)
+- Demo: https://example.com
+- Repo: https://github.com/algods23/seed2tree
 
 ---
 
@@ -91,7 +91,7 @@ Focused on building **scalable intelligent systems** that empower local industri
 <a id="connect"></a>
 
 <p align="center">
-  <a href="TODO:ADD_LINKEDIN_URL"><b>LinkedIn</b></a>
+  <a href="https://linkedin.com/in/aletabaranza"><b>LinkedIn</b></a>
   ·
-  <a href="mailto:TODO:ADD_EMAIL"><b>Email</b></a>
+  <a href="mailto:ale.tabaranza@example.com"><b>Email</b></a>
 </p>
