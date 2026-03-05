@@ -1,109 +1,18 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Ale Tabaranza</h1>
-<h3 align="center">Full-Stack Developer · Data Analytics · AI-Driven Systems</h3>
+# About Me
 
-<p align="center">
-  Building intelligent platforms powered by data, security, and scalable architecture.
-</p>
+Welcome to my repository! This section will give you an overview of who I am and what I love to do.
 
-<p align="center">
-  <a href="https://github.com/algods23?tab=repositories">
-    <img src="https://img.shields.io/badge/Full--Stack-Developer-1F2933?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer" />
-  </a>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Expert-2563EB?style=for-the-badge" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/AI--Driven%20Systems-Builder-16A34A?style=for-the-badge" alt="AI-Driven Systems" />
-</p>
+# Featured Projects
 
-<p align="center">
-  <a href="#featured-project"><b>Featured project</b></a>
-  ·
-  <a href="#technical-expertise"><b>Tech stack</b></a>
-  ·
-  <a href="#certifications"><b>Certifications</b></a>
-  ·
-  <a href="#connect"><b>Connect</b></a>
-</p>
+## Project 1
 
----
+Description of project 1...
 
-## 
-0
-0About Me
+## Project 2
 
-I build data-driven web applications and AI-assisted systems that solve real-world problems.
-My focus blends software engineering, machine learning, and business-oriented system design.
+Description of project 2...
 
-- **Data Analytics & Predictive Modeling**
-- **AI-Based Web Applications**
-- **Network Security & Database Systems**
-- **Smart Agriculture Technology (Efres Seedlings Project)**
+# Contact
 
----
-
-## 
-0
-0Featured Project
-
-<a id="featured-project"></a>
-
-### Seed2Tree Web  Efres Seedlings
-
-A regression-based web system for seedling monitoring and commerce that:
-
-- **Predicts seedling maturity** using a **Random Forest** model
-- **Analyzes plant growth data** to support better farming decisions
-- **Integrates e-commerce** to connect farmers and buyers
-- **Supports agricultural innovation** in Davao City
-
-**Project links**
-- Demo: *(add link)*
-- Repo: *(add link)*
-
----
-
-## 
-0
-0Technical Expertise
-
-<a id="technical-expertise"></a>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,laravel,mysql,sqlite,python,bootstrap,tailwind,git,github" />
-</p>
-
----
-
-## 
-0
-0Certifications
-
-<a id="certifications"></a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IT%20Specialist-Network%20Security-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT%20Specialist-Databases-15803D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DICT-Code%20Your%20Future-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UM-Research%20Presenter-7C3AED?style=for-the-badge" />
-</p>
-
----
-
-## 
-0
-0Professional Direction
-
-Focused on building **scalable intelligent systems** that empower local industries through **data-driven innovation**.
-
----
-
-## 
-0
-0Connect
-
-<a id="connect"></a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/"><b>LinkedIn</b></a>
-  ·
-  <a href="mailto:your.email@example.com"><b>Email</b></a>
-</p>
+- LinkedIn: [TODO: Insert LinkedIn URL]
+- Email: [TODO: Insert Email Address]
