@@ -135,27 +135,34 @@ I build **data-driven web applications** and **AI-assisted systems** that solve 
 
 <div align="center">
 
+### 🏅 Pearson IT Specialist — Certiport
+
 <table>
   <tr>
-    <td align="center" valign="top">
-      <b>🏅 Certiport / Credly Badges</b><br><br>
-      <!-- Certiport Badge 1 -->
-      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9855075b-4a41-445a-b227-6dd367ff9f0f" data-share-badge-host="https://www.credly.com"></div>
-      <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <td align="center">
+      <img src="./assets/badge/it-specialist-network-security.png" width="150" alt="IT Specialist – Network Security" />
+      <br><b>IT Specialist</b>
+      <br><sub>Network Security</sub>
     </td>
-    <td align="center" valign="top">
-      <b>🎓 Other Certifications</b><br><br>
-      <img src="https://img.shields.io/badge/IT%20Specialist-Network%20Security-0F766E?style=for-the-badge" alt="IT Specialist – Network Security" /><br><br>
-      <img src="https://img.shields.io/badge/IT%20Specialist-Databases-15803D?style=for-the-badge" alt="IT Specialist – Databases" /><br><br>
-      <img src="https://img.shields.io/badge/DICT-Code%20Your%20Future-F97316?style=for-the-badge" alt="DICT Code Your Future" /><br><br>
-      <img src="https://img.shields.io/badge/UM-Research%20Presenter-7C3AED?style=for-the-badge" alt="UM Research Presenter" />
+    <td align="center">
+      <img src="./assets/badge/MicrosoftTeams-image__5_.png" width="150" alt="IT Specialist – Databases" />
+      <br><b>IT Specialist</b>
+      <br><sub>Databases</sub>
     </td>
   </tr>
 </table>
 
-</div>
+<br>
 
-> ⚠️ **Note:** Credly interactive badge embeds **only render on hosted HTML pages** (e.g., a portfolio website). On GitHub READMEs, you can link to your Credly profile instead — see the Connect section below.
+### 🎓 Other Certifications
+
+<img src="https://img.shields.io/badge/DICT-Code%20Your%20Future-F97316?style=for-the-badge" alt="DICT Code Your Future" />
+&nbsp;
+<img src="https://img.shields.io/badge/UM-Research%20Presenter-7C3AED?style=for-the-badge" alt="UM Research Presenter" />
+&nbsp;
+[![Credly](https://img.shields.io/badge/Credly-View%20All%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/9855075b-4a41-445a-b227-6dd367ff9f0f)
+
+</div>
 
 ---
 
