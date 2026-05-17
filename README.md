@@ -49,25 +49,7 @@ I build **data-driven web applications** and **AI-assisted systems** that solve 
 | **Repository** | [algods23/seed2tree](https://github.com/algods23/seed2tree) |
 | **Stack** | `Laravel` · `Python` · `MySQL` · `Random Forest` |
 
----
 
-### 🏛️ JFDAVAO
-
-> *(Add a one-line description of what this system does)*
-
-<p align="center">
-  <img src="./assets/jfdavao/dashboard.png" width="800" alt="JFDAVAO dashboard" />
-</p>
-
-<p align="center">
-  <img src="./assets/jfdavao/login.png" width="390" alt="JFDAVAO login screen" />
-  &nbsp;
-  <img src="./assets/jfdavao/reports.png" width="390" alt="JFDAVAO reports screen" />
-</p>
-
-> 💡 **Tip:** Replace the image paths above with real screenshots hosted under `/assets/` in your repo.
-
----
 
 ## 📊 GitHub Stats
 
