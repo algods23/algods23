@@ -43,13 +43,6 @@ I build **data-driven web applications** and **AI-assisted systems** that solve 
 - 🛒 Integrates e-commerce to connect farmers directly with buyers
 - 🌏 Supports agricultural innovation in Davao City and surrounding regions
 
-| | |
-|---|---|
-| **Live Demo** | [seed2tree.example.com](https://example.com) |
-| **Repository** | [algods23/seed2tree](https://github.com/algods23/seed2tree) |
-| **Stack** | `Laravel` · `Python` · `MySQL` · `Random Forest` |
-
-
 
 ## 📊 GitHub Stats
 
