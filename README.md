@@ -160,7 +160,7 @@ I build **data-driven web applications** and **AI-assisted systems** that solve 
 &nbsp;
 <img src="https://img.shields.io/badge/UM-Research%20Presenter-7C3AED?style=for-the-badge" alt="UM Research Presenter" />
 &nbsp;
-[![Credly](https://img.shields.io/badge/Credly-View%20All%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/9855075b-4a41-445a-b227-6dd367ff9f0f)
+
 
 </div>
 
